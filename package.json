@@ -1,0 +1,26 @@
+{
+  "name": "bettie-theme",
+  "displayName": "Bettie",
+  "description": "A theme inspired by Bettie",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thejones/bettie-theme"
+  },
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "icon": "bettie-logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bettie Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bettie Theme-color-theme.json"
+      }
+    ]
+  }
+}
