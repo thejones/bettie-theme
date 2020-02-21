@@ -1,4 +1,5 @@
-
+# Do not track the release - unsure if this is common or not :)
+.vsix
 # Created by https://www.gitignore.io/api/vim,node,emacs,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=vim,node,emacs,visualstudiocode
 

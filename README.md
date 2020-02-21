@@ -1,13 +1,9 @@
 # README
-## This is the README for your extension "bettie-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme is mostly Framer but has a touch of Ramda. I really like Framer but prefer pink to yellow and I also had trouble seeing a few things as my eyes aint all kinds of perfect no more.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Bettie is my dog and she was like, "Hey owner, name a theme after me.", and with that Bettie was born.
 
-**Enjoy!**
+## Screenshots and stuff
+
+They are coming but this first release is mostly to learn about publishing to the Microsoft.
