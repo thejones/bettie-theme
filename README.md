@@ -7,19 +7,15 @@ Bettie is my dog and she was like, "Hey owner, name a theme after me.", and with
 ## Screenshots and stuff
 
 [Elixir](https://elixir-lang.org/)
-![Elixir](
-https://github.com/thejones/bettie-theme/blob/master/code-snippets/elixir.png)
+![Elixir](https://github.com/thejones/bettie-theme/raw/master/code-snippets/elixir.png)
 
 [Vue](https://vuejs.org/)
-![Vue](
-https://github.com/thejones/bettie-theme/blob/master/code-snippets/vue.png)
+![Vue](https://github.com/thejones/bettie-theme/raw/master/code-snippets/vue.png)
 
 [Express](http://expressjs.com/)
-![Express](
-https://github.com/thejones/bettie-theme/blob/master/code-snippets/express.png)
+![Express](https://github.com/thejones/bettie-theme/raw/master/code-snippets/express.png)
 
 [React](https://reactjs.org/)
 
 [You should try LiveView ;)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
-![React](
-https://github.com/thejones/bettie-theme/blob/master/code-snippets/react.png)
+![React](https://github.com/thejones/bettie-theme/raw/master/code-snippets/react.png)
